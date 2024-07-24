@@ -1,15 +1,15 @@
-# Welcome to my profile! I'm Nicole Charale 😊
+# Bem-vindo(a) ao meu perfil! Me chamo Nicole Charale 😊
 
-## 👩🏻‍💻 I'm a **systems development student** with a special interest in:
+## 👩🏻‍💻 Sou **Técnica em Desenvolvimento de Sistemas** com conhecimento em:
 
-### - 💻 Web Development
-### - 🎮 Digital games
-### - 📱 Mobile apps
-### - 🎨 Design
+### - 🌎 Desenvolvimento WEB com ASP.NET + HTML + JavaScript + CSS3/SASS + Bootstrap
+### - 💻 Back-end com C#
+### - 🎲 Banco de Dados com MySQL e SQL Server
+### - 💿 Sistema Operacional Linux + Configuração de servidores para hospedagem de sites/sistemas WEB
 
-### Besides, I love **Music** 🎵
+### Além disso, eu amo **música** 🎵
 
-## I look forward to interacting and sharing interests with you! 💙
+## Espero compartilhar interesses e experiências com você! 💙
 
 <hr />
 
